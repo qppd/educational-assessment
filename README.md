@@ -19,10 +19,10 @@
 
 <h2>🧰 Tech Stack</h2>
 <ul>
-  <li><strong>Backend:</strong> Laravel (PHP 8+)</li>
-  <li><strong>Frontend:</strong> Blade templates, JavaScript, HTML/CSS, Bootstrap (AdminLTE theme)</li>
+  <li><strong>Backend:</strong> Laravel</li>
+  <li><strong>Frontend:</strong> Blade, JavaScript, HTML/CSS, Bootstrap (AdminLTE theme)</li>
   <li><strong>Database:</strong> MySQL</li>
-  <li><strong>Facial Recognition:</strong> FaceAPI.js (browser-based face detection)</li>
+  <li><strong>Facial Recognition:</strong> FaceAPI.js</li>
 </ul>
 
 <hr>
