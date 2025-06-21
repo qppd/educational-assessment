@@ -1,4 +1,4 @@
-<h1 align="center">🎓 Educational Assessment System</h1>
+<h1 align="center">🎓 Educational Assessment Laravel WebApp</h1>
 
 <p align="center">
   A Laravel-based web application designed to streamline academic evaluations. Features include quizzes, student profiles, face-recognition authentication, dynamic exams, and real-time rankings.
