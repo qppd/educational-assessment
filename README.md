@@ -1,7 +1,7 @@
 <h1 align="center">🎓 Educational Assessment System</h1>
 
 <p align="center">
-  A Laravel-based web application for managing academic assessments—featuring quizzes, student profiles, secure face-recognition login, exams, and student rankings.
+  A Laravel-based web application for managing academic assessments—featuring quizzes, student profiles, face-recognition, exams, and student rankings.
 </p>
 
 <hr>
@@ -10,7 +10,7 @@
 <ul>
   <li><strong>👥 Student Profiles:</strong> Manage student information with ease.</li>
   <li><strong>📝 Quiz & Exams Module:</strong> Create and grade timed assessments automatically.</li>
-  <li><strong>📸 Facial Recognition Authentication:</strong> Secure login using webcam face detection.</li>
+  <li><strong>📸 Facial Recognition Authentication:</strong> Secure login and quizzes using webcam face recognition</li>
   <li><strong>📊 Real-time Rankings & Results:</strong> View leaderboards and personal scores.</li>
   <li><strong>🔐 Secure Role-Based Access:</strong> Admin, Teacher, and Student roles with permissions.</li>
 </ul>
@@ -20,9 +20,9 @@
 <h2>🧰 Tech Stack</h2>
 <ul>
   <li><strong>Backend:</strong> Laravel (PHP 8+)</li>
-  <li><strong>Frontend:</strong> Blade templates, JavaScript, HTML/CSS</li>
+  <li><strong>Frontend:</strong> Blade templates, JavaScript, HTML/CSS, Bootstrap AdminLTE</li>
   <li><strong>Database:</strong> MySQL</li>
-  <li><strong>Facial Recognition:</strong> JavaScript & browser webcam integration</li>
+  <li><strong>Facial Recognition:</strong> FaceAPI</li>
 </ul>
 
 <hr>
